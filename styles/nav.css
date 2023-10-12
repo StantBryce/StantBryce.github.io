@@ -1,8 +1,20 @@
+nav {
+    background-color: #333;
+    overflow: hidden;
+    display: block;
+}
+
 nav a {
     float: left;
-    background-color: darkgrey;
+    text-align: center;
+    padding: 10px 14px;
 }
 
 nav a :hover{
     background-color: grey;
+}
+
+nav a.active {
+    background-color: #04AA6D;
+    color: white;
 }
