@@ -5,4 +5,9 @@ body {
 
 .title {
     text-align: center;
+    padding: 15px;
+}
+
+h2.title {
+    text-decoration: underline;
 }
