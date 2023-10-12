@@ -1,0 +1,8 @@
+nav a {
+    float: left;
+    background-color: darkgrey;
+}
+
+nav a :hover{
+    background-color: grey;
+}
